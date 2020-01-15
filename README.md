@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-app
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-tutorial-app
+>>>>>>> ff2e260e924969e433755d09a6d04f9c708a1b1e
